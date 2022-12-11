@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @bisget7
-- 👀 I’m interested in data
+- 👋 Hi, I’m Bisrat
+- 👀 I’m interested in data and python
 - 🌱 I’m currently learning Natural Language Processing
 - 📫 How to reach me on bisratgetachew0449@gmail.como
 
